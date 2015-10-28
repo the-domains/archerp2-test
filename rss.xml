@@ -1,15 +1,22 @@
 <?xml version="1.0" encoding="UTF-8"?><rss xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:content="http://purl.org/rss/1.0/modules/content/" xmlns:atom="http://www.w3.org/2005/Atom" version="2.0">
     <channel>
-        <title><![CDATA[archerp2-test]]></title>
-        <description><![CDATA[archerp2-test]]></description>
-        <link>http://github.com/dylang/node-rss</link>
+        <title><![CDATA[Betting Blowout - Football betting bonuses, tips and reviews]]></title>
+        <description><![CDATA[Betting Blowout - Football betting bonuses, tips and reviews]]></description>
+        <link>https://thegrid.ai/archerp2-test/</link>
         <generator>The Grid</generator>
-        <lastBuildDate>Wed, 28 Oct 2015 17:20:42 GMT</lastBuildDate>
-        <atom:link href="undefinedrss.xml" rel="self" type="application/rss+xml"/>
+        <lastBuildDate>Wed, 28 Oct 2015 17:34:25 GMT</lastBuildDate>
+        <atom:link href="https://thegrid.ai/archerp2-test/rss.xml" rel="self" type="application/rss+xml"/>
+        <item>
+            <title><![CDATA[No title]]></title>
+            <description><![CDATA[<img src="https://the-grid-user-content.s3-us-west-2.amazonaws.com/58964caf-7430-45aa-a738-36ec81b248f4.jpg">]]></description>
+            <link>https://thegrid.ai/archerp2-test/e2db1c09-47ae-4cef-bf48-339128b2693b/index.html</link>
+            <guid isPermaLink="false">e2db1c09-47ae-4cef-bf48-339128b2693b</guid>
+            <pubDate>Wed, 28 Oct 2015 17:34:24 GMT</pubDate>
+        </item>
         <item>
             <title><![CDATA[No title]]></title>
             <description><![CDATA[<p>test</p>]]></description>
-            <link>undefined436165a4-0372-4b89-8f32-02c6e8e90921/index.html</link>
+            <link>https://thegrid.ai/archerp2-test/436165a4-0372-4b89-8f32-02c6e8e90921/index.html</link>
             <guid isPermaLink="false">436165a4-0372-4b89-8f32-02c6e8e90921</guid>
             <pubDate>Wed, 28 Oct 2015 17:20:17 GMT</pubDate>
         </item>
