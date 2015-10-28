@@ -1,0 +1,23 @@
+name: archerp2-test
+favicon: null
+layout_spectrum: 0.16627113102003932
+typography_spectrum: 0.9729323030915111
+cta:
+  domain: null
+  bucket: null
+  version: null
+analytics:
+  google: null
+  facebook: null
+  twitter: null
+opengraph:
+  image: null
+  type: null
+  appId: null
+color:
+  brandColors: []
+  brandStrength: 0.6869571567513049
+  lightness: 0.281707797665149
+  saturation: 0.09957438963465393
+  rhythmicContrast: 0.33448159298859537
+purpose: []
